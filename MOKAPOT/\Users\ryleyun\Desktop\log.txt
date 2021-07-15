@@ -1,0 +1,9 @@
+input: input: /Users/ryleyun/Desktop/abc.txt
+
+전처리 과정: 
+
+output: /Users/ryleyun/Desktop/abc_output_2021-06-25_02-34-44-PM.txt
+/Users/ryleyun/Desktop/abc_pos_output_2021-06-25_02-34-44-PM.txt
+
+============================
+

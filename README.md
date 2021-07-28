@@ -9,6 +9,7 @@ To be a NLP Data scientist, I am currently practicing NLP realated pragramming b
 
 2) DACON
 - 데이콘 프로젝트 중 자연어 처리와 관련된 문제를 풀어보며 공부한 자연어 처리 개념을 적용해 보기 위해 연습하고 있습니다. 현재 폴더 내에는 데이콘 문제 중 자연어 기반 기후기술분류 AI 경진대회 문제에 대한 코드가 들어 있습니다. 키워드를 추출, 형태소 분석에 관한 전처리 코드부터 Naive Bayes, GRU, CNN, LightGBM, BERT 등의 파이프 라인과 그 파이프 라인을 통해 모델을 예측한 코드가 담겨 있습니다.
+https://www.notion.so/AI-7629fc5767c348f89febdfc3953654e2
 
 3) ML&DLBasic
 - 멀티 캠퍼스 자연어 처리 과정 수강 중에 배웠던 ML과 DL 관련 기초 코드를 정리하였습니다. 파이썬 라이브러리에서 가져올 수 있는 기본 데이터셋과 kaggle 유명 문제인 Titanic 그리고 네이버에서 크롤링한 자료들을 토대로 연습한 코드들 입니다.

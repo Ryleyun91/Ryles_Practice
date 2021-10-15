@@ -131,3 +131,5 @@ dmypy.json
 .vscode
 DATA
 KoBERT-nsmc
+Django
+Django.ipynb
